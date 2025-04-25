@@ -22,9 +22,9 @@ repository               : "https://kajim573.github.io/KajimPrimers/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : avatar: images/kermit.png
+  avatar           : images/kermit.png
   name             : "Kadzim Habsyi"
-  pronouns         : "He/Him"  
+  pronouns         : "Only Him"  
   bio              : "Supreme Leader of the Galaxy"
   location         : "Jakarta, Indonesia"
   employer         : "Gadjah Mada University"
